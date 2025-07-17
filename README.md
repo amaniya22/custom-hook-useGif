@@ -4,6 +4,8 @@ A **clean, reusable React custom hook** demonstrating how to encapsulate API cal
 
 This project showcases **my understanding of creating, using, and structuring React custom hooks** in a practical, real-world scenario.
 
+![Preview Landing](src/assets/screenshot.png)
+
 ---
 
 ## 🚀 What This Hook Does
